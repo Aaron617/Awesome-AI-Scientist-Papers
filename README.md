@@ -23,6 +23,10 @@
 
    *Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha*  [[pdf](https://arxiv.org/abs/2408.06292)] 2024.08
 
+- **Agent Laboratory: Using LLM Agents as Research Assistants**
+
+   *Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum* [[pdf](https://huggingface.co/papers/2501.04227)] 2025.01
+
 ### Idea Generation
 
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers**
@@ -34,6 +38,8 @@
 - **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering**
 
    *Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry* [[pdf](https://arxiv.org/abs/2410.07095)] 2024.10
+
+
 
 ### Paper Review
 
