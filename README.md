@@ -29,9 +29,19 @@
 
 ### Idea Generation
 
+
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers**
 
     *Chenglei Si, Diyi Yang, Tatsunori Hashimoto* [[pdf](https://arxiv.org/abs/2409.04109)] 2024.09
+
+- **Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents**
+
+   *Long Li, Weiwen Xu, Jiayan Guo, Ruochen Zhao, Xingxuan Li, Yuqian Yuan, Boqiang Zhang, Yuming Jiang, Yifei Xin, Ronghao Dang, Deli Zhao, Yu Rong, Tian Feng, Lidong Bing* [[pdf](https://arxiv.org/pdf/2410.13185)] 2024.10
+
+- **IdeaBench: Benchmarking Large Language Models for Research Idea Generation**
+
+   *Sikun Guo, Amir Hassan Shariatmadari, Guangzhi Xiong, Albert Huang, Eric Xie, Stefan Bekiranov, Aidong Zhang* [[pdf](https://arxiv.org/abs/2411.02429)] 2024.11
+
 
 ### Experiment
 
